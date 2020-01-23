@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Cinzel&display=swap');
+
+.Left{
+    min-width: 100px;
+    min-height: 200px;
+    background-color: aquamarine;
+    background-image: url("../images/landscape.webp");
+    display: flex;
+    justify-content: center;
+    padding-top: 80px;
+    color: #fff;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 650px ;
+    width: 300px;
+    font-family: 'Cinzel', serif;
+    font-size: 25px;
+
+}

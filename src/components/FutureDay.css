@@ -1,0 +1,21 @@
+.FutureDay{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 22px;  
+  width: 24%;
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
+.day{
+  margin-top: 18px;
+}
+
+i{
+  font-size: 45px;
+  margin-top: 22px;
+}
+
+.temp{
+  margin-top: 22px;
+}
