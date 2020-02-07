@@ -8,3 +8,10 @@
     height: 650px ;
     width: 450px;
 }
+
+.invalidInput {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+  font-size: 30px;
+}
